@@ -1,0 +1,7 @@
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\MathProject\MathProject\bin\Debug\MathProject.exe.config
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\MathProject\MathProject\bin\Debug\MathProject.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\MathProject\MathProject\bin\Debug\MathProject.pdb
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\MathProject\MathProject\obj\Debug\MathProject.csproj.AssemblyReference.cache
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\MathProject\MathProject\obj\Debug\MathProject.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\MathProject\MathProject\obj\Debug\MathProject.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\MathProject\MathProject\obj\Debug\MathProject.pdb
