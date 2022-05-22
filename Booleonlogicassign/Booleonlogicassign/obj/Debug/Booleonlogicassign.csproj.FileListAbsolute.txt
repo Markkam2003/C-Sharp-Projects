@@ -1,0 +1,7 @@
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Booleonlogicassign\Booleonlogicassign\bin\Debug\Booleonlogicassign.exe.config
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Booleonlogicassign\Booleonlogicassign\bin\Debug\Booleonlogicassign.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Booleonlogicassign\Booleonlogicassign\bin\Debug\Booleonlogicassign.pdb
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Booleonlogicassign\Booleonlogicassign\obj\Debug\Booleonlogicassign.csproj.AssemblyReference.cache
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Booleonlogicassign\Booleonlogicassign\obj\Debug\Booleonlogicassign.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Booleonlogicassign\Booleonlogicassign\obj\Debug\Booleonlogicassign.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Booleonlogicassign\Booleonlogicassign\obj\Debug\Booleonlogicassign.pdb
