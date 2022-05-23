@@ -1,0 +1,6 @@
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Operatorchallenge\Operatorchallenge\bin\Debug\Operatorchallenge.exe.config
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Operatorchallenge\Operatorchallenge\bin\Debug\Operatorchallenge.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Operatorchallenge\Operatorchallenge\bin\Debug\Operatorchallenge.pdb
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Operatorchallenge\Operatorchallenge\obj\Debug\Operatorchallenge.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Operatorchallenge\Operatorchallenge\obj\Debug\Operatorchallenge.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Operatorchallenge\Operatorchallenge\obj\Debug\Operatorchallenge.pdb

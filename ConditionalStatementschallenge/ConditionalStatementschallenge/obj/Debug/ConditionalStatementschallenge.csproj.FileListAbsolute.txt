@@ -1,0 +1,6 @@
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\ConditionalStatementschallenge\ConditionalStatementschallenge\bin\Debug\ConditionalStatementschallenge.exe.config
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\ConditionalStatementschallenge\ConditionalStatementschallenge\bin\Debug\ConditionalStatementschallenge.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\ConditionalStatementschallenge\ConditionalStatementschallenge\bin\Debug\ConditionalStatementschallenge.pdb
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\ConditionalStatementschallenge\ConditionalStatementschallenge\obj\Debug\ConditionalStatementschallenge.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\ConditionalStatementschallenge\ConditionalStatementschallenge\obj\Debug\ConditionalStatementschallenge.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\ConditionalStatementschallenge\ConditionalStatementschallenge\obj\Debug\ConditionalStatementschallenge.pdb

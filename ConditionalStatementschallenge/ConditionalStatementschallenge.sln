@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalStatementschallenge", "ConditionalStatementschallenge\ConditionalStatementschallenge.csproj", "{B036C5AD-F882-43ED-934E-8CF7FD1EE06B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B036C5AD-F882-43ED-934E-8CF7FD1EE06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B036C5AD-F882-43ED-934E-8CF7FD1EE06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B036C5AD-F882-43ED-934E-8CF7FD1EE06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B036C5AD-F882-43ED-934E-8CF7FD1EE06B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8B8426F-C7C8-4A31-A10B-AE5EB459F0DB}
+	EndGlobalSection
+EndGlobal

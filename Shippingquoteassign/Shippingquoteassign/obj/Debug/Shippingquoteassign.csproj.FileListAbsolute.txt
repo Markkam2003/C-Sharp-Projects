@@ -1,0 +1,7 @@
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Shippingquoteassign\Shippingquoteassign\bin\Debug\Shippingquoteassign.exe.config
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Shippingquoteassign\Shippingquoteassign\bin\Debug\Shippingquoteassign.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Shippingquoteassign\Shippingquoteassign\bin\Debug\Shippingquoteassign.pdb
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Shippingquoteassign\Shippingquoteassign\obj\Debug\Shippingquoteassign.csproj.AssemblyReference.cache
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Shippingquoteassign\Shippingquoteassign\obj\Debug\Shippingquoteassign.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Shippingquoteassign\Shippingquoteassign\obj\Debug\Shippingquoteassign.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Shippingquoteassign\Shippingquoteassign\obj\Debug\Shippingquoteassign.pdb

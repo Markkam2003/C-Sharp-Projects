@@ -1,0 +1,6 @@
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\TernaryOperator\TernaryOperator\bin\Debug\TernaryOperator.exe.config
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\TernaryOperator\TernaryOperator\bin\Debug\TernaryOperator.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\TernaryOperator\TernaryOperator\bin\Debug\TernaryOperator.pdb
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\TernaryOperator\TernaryOperator\obj\Debug\TernaryOperator.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\TernaryOperator\TernaryOperator\obj\Debug\TernaryOperator.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\TernaryOperator\TernaryOperator\obj\Debug\TernaryOperator.pdb
