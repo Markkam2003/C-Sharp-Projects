@@ -16,7 +16,7 @@ namespace Shippingquoteassign
             // Retrieve package weight & if it is > 50, end the program
             Console.WriteLine("Hello! Please enter the weight of your package:");
             int pkgWeight = Convert.ToInt32(Console.ReadLine());
-            if (pkgWeight > 50)
+            if (pkgWeight >= 50)
             {
                 Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day.");
             }
