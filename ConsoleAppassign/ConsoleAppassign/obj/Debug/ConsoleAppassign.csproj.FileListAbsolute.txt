@@ -1,0 +1,7 @@
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppassign\ConsoleAppassign\bin\Debug\ConsoleAppassign.exe.config
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppassign\ConsoleAppassign\bin\Debug\ConsoleAppassign.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppassign\ConsoleAppassign\bin\Debug\ConsoleAppassign.pdb
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppassign\ConsoleAppassign\obj\Debug\ConsoleAppassign.csproj.AssemblyReference.cache
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppassign\ConsoleAppassign\obj\Debug\ConsoleAppassign.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppassign\ConsoleAppassign\obj\Debug\ConsoleAppassign.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppassign\ConsoleAppassign\obj\Debug\ConsoleAppassign.pdb
