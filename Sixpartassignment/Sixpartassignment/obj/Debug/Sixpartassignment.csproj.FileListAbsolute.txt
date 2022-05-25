@@ -1,0 +1,7 @@
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Sixpartassignment\Sixpartassignment\bin\Debug\Sixpartassignment.exe.config
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Sixpartassignment\Sixpartassignment\bin\Debug\Sixpartassignment.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Sixpartassignment\Sixpartassignment\bin\Debug\Sixpartassignment.pdb
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Sixpartassignment\Sixpartassignment\obj\Debug\Sixpartassignment.csproj.AssemblyReference.cache
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Sixpartassignment\Sixpartassignment\obj\Debug\Sixpartassignment.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Sixpartassignment\Sixpartassignment\obj\Debug\Sixpartassignment.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Sixpartassignment\Sixpartassignment\obj\Debug\Sixpartassignment.pdb
