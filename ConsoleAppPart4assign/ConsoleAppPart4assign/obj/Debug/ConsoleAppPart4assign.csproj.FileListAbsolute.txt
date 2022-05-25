@@ -1,0 +1,7 @@
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppPart4assign\ConsoleAppPart4assign\bin\Debug\ConsoleAppPart4assign.exe.config
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppPart4assign\ConsoleAppPart4assign\bin\Debug\ConsoleAppPart4assign.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppPart4assign\ConsoleAppPart4assign\bin\Debug\ConsoleAppPart4assign.pdb
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppPart4assign\ConsoleAppPart4assign\obj\Debug\ConsoleAppPart4assign.csproj.AssemblyReference.cache
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppPart4assign\ConsoleAppPart4assign\obj\Debug\ConsoleAppPart4assign.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppPart4assign\ConsoleAppPart4assign\obj\Debug\ConsoleAppPart4assign.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppPart4assign\ConsoleAppPart4assign\obj\Debug\ConsoleAppPart4assign.pdb
