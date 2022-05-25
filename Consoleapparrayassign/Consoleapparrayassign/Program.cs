@@ -11,37 +11,37 @@ namespace Consoleapparrayassign
         static void Main(string[] args)
         {
             // Array of strings
-            //string[] chips = { "Takis", "Doritos", "Cheetos", "Lays" };
-            //Console.WriteLine("Enter an index number to choose your chips: ");
-            //int input = Convert.ToInt32(Console.ReadLine());
+            string[] chips = { "Takis", "Doritos", "Cheetos", "Lays" };
+            Console.WriteLine("Enter an index number to choose your chips: ");
+            int input = Convert.ToInt32(Console.ReadLine());
 
-            //// if statement if the index is out of range
-            //if (input > chips.Length)
-            //{
-            //    Console.WriteLine("Please choose a number inside of the array such as 1-4.");
-            //    Console.ReadLine();
-            //}
-            //else
-            //{
-            //    Console.WriteLine("The chips at index number: " + input + " is " + chips[input]);
-            //}
-            //Console.ReadLine();
+            // if statement if the index is out of range
+            if (input > chips.Length)
+            {
+                Console.WriteLine("Please choose a number inside of the array such as 1-4.");
+                Console.ReadLine();
+            }
+            else
+            {
+                Console.WriteLine("The chips at index number: " + input + " is " + chips[input]);
+            }
+            Console.ReadLine();
 
             // Array of integers
-            //int[] intArray = { 30, 21, 24, 14 };
-            //Console.WriteLine("Pick an index number to get your number.");
-            //int input2 = Convert.ToInt32(Console.ReadLine());
+            int[] intArray = { 30, 21, 24, 14 };
+            Console.WriteLine("Pick an index number to get your number.");
+            int input2 = Convert.ToInt32(Console.ReadLine());
 
-            //// if statement if the index is out of range
-            //if (input2 > intArray.Length)
-            //{
-            //    Console.WriteLine("You have chosen an index number out of range. Choose 1-4.");
-            //    Console.ReadLine();
-            //}
-            //else
-            //{
-            //    Console.WriteLine("The integer at index number" + input2 + " is " + intArray[input2]);
-            //}
+            // if statement if the index is out of range
+            if (input2 > intArray.Length)
+            {
+                Console.WriteLine("You have chosen an index number out of range. Choose 1-4.");
+                Console.ReadLine();
+            }
+            else
+            {
+                Console.WriteLine("The integer at index number" + input2 + " is " + intArray[input2]);
+            }
             //Console.ReadLine();
 
             // Create list of strings
