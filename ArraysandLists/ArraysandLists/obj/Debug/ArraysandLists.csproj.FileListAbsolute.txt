@@ -1,0 +1,6 @@
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\ArraysandLists\ArraysandLists\bin\Debug\ArraysandLists.exe.config
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\ArraysandLists\ArraysandLists\bin\Debug\ArraysandLists.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\ArraysandLists\ArraysandLists\bin\Debug\ArraysandLists.pdb
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\ArraysandLists\ArraysandLists\obj\Debug\ArraysandLists.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\ArraysandLists\ArraysandLists\obj\Debug\ArraysandLists.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\ArraysandLists\ArraysandLists\obj\Debug\ArraysandLists.pdb
