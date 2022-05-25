@@ -1,0 +1,6 @@
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\StringandIntegersassign\StringandIntegersassign\bin\Debug\StringandIntegersassign.exe.config
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\StringandIntegersassign\StringandIntegersassign\bin\Debug\StringandIntegersassign.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\StringandIntegersassign\StringandIntegersassign\bin\Debug\StringandIntegersassign.pdb
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\StringandIntegersassign\StringandIntegersassign\obj\Debug\StringandIntegersassign.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\StringandIntegersassign\StringandIntegersassign\obj\Debug\StringandIntegersassign.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\StringandIntegersassign\StringandIntegersassign\obj\Debug\StringandIntegersassign.pdb
