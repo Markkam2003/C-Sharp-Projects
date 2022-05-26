@@ -14,34 +14,34 @@ namespace CallingMethodassign
         //a method for doing subtraction with the value of the parameter input number applied to the variable num. num - 55 = value saved to the variable subtraction. With a console writeline 
         //to display a statement showing the operation with the value of num and subtraction concatenated into the statement.
         //an if statement applied to avoid a negative number from subtracting a smaller number than 55
-        public void subMath(int num)
+        public int subMath(int num)
         {
             if (num >= 55)
             {
                 int subtraction = num - 55;
-                Console.WriteLine("Subtraction: " + num + " - 55 = " + subtraction);
+                return subtraction;
             }
             else
             {
                 int subtraction = 55 - num;
-                Console.WriteLine("Subtraction: 55 - " + num + " = " + subtraction);
+                return subtraction;
             }
         }
 
         //a method for doing addition with the value of the parameter input number applied to the variable num. num + 55 = value saved to the variable addition. With a console writeline 
         //to display a statement showing the operation with the value of num and addition concatenated into the statement.
-        public void addMath(int num)
+        public int addMath(int num)
         {
             int addition = num + 55;
-            Console.WriteLine("Addition: " + num + " + 55 = " + addition);
+            return addition;
         }
 
         //a method for doing multiplication with the value of the parameter input number applied to the variable num. num * 55 = value saved to the variable multiplication. With a console writeline 
         //to display a statement showing the operation with the value of num and multiplication concatenated into the statement.
-        public void multiMath(int num)
+        public int multiMath(int num)
         {
             int multiplication = num * 55;
-            Console.WriteLine("Multiplication: " + num + " * 55 = " + multiplication);
+            return multiplication;
         }
 
         //a method for finding the square root with the value of the parameter input number applied to the variable num. utilizing the system Math class with the method Sqrt of the variable sum

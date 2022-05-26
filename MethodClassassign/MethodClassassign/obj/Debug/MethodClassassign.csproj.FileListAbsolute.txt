@@ -1,0 +1,2 @@
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\MethodClassassign\MethodClassassign\obj\Debug\MethodClassassign.csproj.AssemblyReference.cache
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\MethodClassassign\MethodClassassign\obj\Debug\MethodClassassign.csproj.CoreCompileInputs.cache

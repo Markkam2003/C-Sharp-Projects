@@ -24,6 +24,9 @@ namespace CallingMethodassign
             mathClass.multiMath(mathClass.inputnumber);
 
             //A WriteLine method printing to the console a statement containing the class parameter and the return value from the method sqrtMath concatinated into the statement.
+            Console.WriteLine("Subtraction: " + mathClass.inputnumber + " is " + mathClass.subMath(mathClass.inputnumber));
+            Console.WriteLine("Addition: " + mathClass.inputnumber + " is "  + mathClass.addMath(mathClass.inputnumber));
+            Console.WriteLine("Multiplication: " + mathClass.inputnumber + " is " + mathClass.multiMath(mathClass.inputnumber));
             Console.WriteLine("The Square root of " + mathClass.inputnumber + " is " + mathClass.sqrtMath(mathClass.inputnumber));
 
 
