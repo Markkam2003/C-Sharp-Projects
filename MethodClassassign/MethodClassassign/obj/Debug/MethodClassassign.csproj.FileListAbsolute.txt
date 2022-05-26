@@ -1,2 +1,7 @@
 C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\MethodClassassign\MethodClassassign\obj\Debug\MethodClassassign.csproj.AssemblyReference.cache
 C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\MethodClassassign\MethodClassassign\obj\Debug\MethodClassassign.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\MethodClassassign\MethodClassassign\bin\Debug\MethodClassassign.exe.config
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\MethodClassassign\MethodClassassign\bin\Debug\MethodClassassign.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\MethodClassassign\MethodClassassign\bin\Debug\MethodClassassign.pdb
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\MethodClassassign\MethodClassassign\obj\Debug\MethodClassassign.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\MethodClassassign\MethodClassassign\obj\Debug\MethodClassassign.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CE3CF178-39D5-4F3E-B743-A5551F1E39F4}</ProjectGuid>
+    <ProjectGuid>{34D62B4D-80EE-488F-A0BB-2754EF1C2FBA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>MethodClassassign</RootNamespace>
-    <AssemblyName>MethodClassassign</AssemblyName>
+    <RootNamespace>Methodsubmissionassign</RootNamespace>
+    <AssemblyName>Methodsubmissionassign</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Method.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
