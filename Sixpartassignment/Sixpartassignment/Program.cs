@@ -142,7 +142,7 @@ namespace Sixpartassignment
 
             //3. Add code to the loop to check if the user put in text that isn't on the list and, if they did, tells the user their input is not on the list.
 
-            List<string> groceryList = new List<string>() { "onions", "lettuce", "onions", "blueberry", "milk", "beans" };
+            List<string> groceryList = new List<string>() { "onions", "lettuce", "tomatoes", "blueberry", "milk", "beans" };
             string listItems;
             int indexx;
 
@@ -171,7 +171,7 @@ namespace Sixpartassignment
 
             //2.Create a foreach loop that evaluates each item in the list, and displays a message showing the string and whether or not it has already appeared in the list.
 
-            List<string> animalList = new List<string>() { "Lion", "tiger", "zebra", "panda", "bear" };
+            List<string> animalList = new List<string>() { "Lion", "tiger", "zebra", "Lion", "bear", "zebra" };
             List<string> duplicateCheck = new List<string>();
 
             foreach (string animal in animalList)
