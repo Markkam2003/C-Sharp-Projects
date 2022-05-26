@@ -143,6 +143,10 @@ namespace Sixpartassignment
             //3. Add code to the loop to check if the user put in text that isn't on the list and, if they did, tells the user their input is not on the list.
 
             List<string> groceryList = new List<string>() { "onions", "lettuce", "tomatoes", "blueberry", "milk", "beans" };
+            foreach (string e in groceryList)
+            {
+                Console.WriteLine(e);
+            }
             string listItems;
             int indexx;
 
@@ -157,13 +161,14 @@ namespace Sixpartassignment
                     {
                         Console.WriteLine(item + " " + indexx);
                     }
+                    else
+                    {
+                        Console.WriteLine("Sorry {0} is not on the list.", listItems);
+                    }
                 }
+                Console.ReadLine();
             }
-            else
-            {
-                Console.WriteLine("Sorry {0} is not on the list.", listItems);
-            }
-            Console.ReadLine();
+            
 
             //Part six
 
@@ -178,13 +183,14 @@ namespace Sixpartassignment
             {
                 if (!duplicateCheck.Contains(animal))
                 {
+                    duplicateCheck.Add(animal);
                     Console.WriteLine(animal + " - has not appeared on the list.");
                 }
                 else
                 {
+                    duplicateCheck.Add(animal);
                     Console.WriteLine(animal + " - has already appeared on the list.");
                 }
-                duplicateCheck.Add(animal);
             }
             Console.ReadLine();
         }
