@@ -1,0 +1,6 @@
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Methodsubmissionassign\Methodsubmissionassign\bin\Debug\Methodsubmissionassign.exe.config
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Methodsubmissionassign\Methodsubmissionassign\bin\Debug\Methodsubmissionassign.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Methodsubmissionassign\Methodsubmissionassign\bin\Debug\Methodsubmissionassign.pdb
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Methodsubmissionassign\Methodsubmissionassign\obj\Debug\Methodsubmissionassign.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Methodsubmissionassign\Methodsubmissionassign\obj\Debug\Methodsubmissionassign.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Methodsubmissionassign\Methodsubmissionassign\obj\Debug\Methodsubmissionassign.pdb
