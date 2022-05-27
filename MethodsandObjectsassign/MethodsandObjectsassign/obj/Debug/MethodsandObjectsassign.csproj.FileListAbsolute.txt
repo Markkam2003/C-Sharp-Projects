@@ -1,0 +1,6 @@
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\MethodsandObjectsassign\MethodsandObjectsassign\bin\Debug\MethodsandObjectsassign.exe.config
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\MethodsandObjectsassign\MethodsandObjectsassign\bin\Debug\MethodsandObjectsassign.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\MethodsandObjectsassign\MethodsandObjectsassign\bin\Debug\MethodsandObjectsassign.pdb
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\MethodsandObjectsassign\MethodsandObjectsassign\obj\Debug\MethodsandObjectsassign.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\MethodsandObjectsassign\MethodsandObjectsassign\obj\Debug\MethodsandObjectsassign.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\MethodsandObjectsassign\MethodsandObjectsassign\obj\Debug\MethodsandObjectsassign.pdb
