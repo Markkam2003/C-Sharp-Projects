@@ -10,14 +10,10 @@ namespace Polymorphismassign
     {
         static void Main(string[] args)
         {
-            Employee person1 = new Employee();
-            person1.FirstName = "Bob";
-            person1.LastName = "Fisher";
-            person1.SayName();
-
-            //Use polymorphism to create an object of type IQuittable and call the Quit() method on it.
-            person1.Quit();
-
+            //creating object type IQuittable
+            IQuitable quitable = new Employee();
+            //calling quit method 
+            quitable.Quit();
             Console.ReadLine();
         }
     }
