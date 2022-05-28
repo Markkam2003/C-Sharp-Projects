@@ -21,7 +21,7 @@ namespace Lambadaassign
             employees.Add(new Employees { FName = "Joe", LName = "Richards", Id = 8032 });
             employees.Add(new Employees { FName = "Dom", LName = "Hunter", Id = 245 });
             employees.Add(new Employees { FName = "Peter", LName = "Curry", Id = 1690 });
-            employees.Add(new Employees { FName = "Dave", LName = "Li", Id = 2400 });
+            employees.Add(new Employees { FName = "Joe", LName = "Li", Id = 2400 });
             employees.Add(new Employees { FName = "Tre", LName = "Well", Id = 3243 });
 
             List<Employees> theJoes = new List<Employees>();//new list that all of the joes go into.
@@ -34,7 +34,7 @@ namespace Lambadaassign
             }
 
             //Lambda function to find the first name "Joe" in a list.
-            List<Employees> theJoesFNameLambda = employees.Where(x => x.FName.Contains("Josh")).ToList();
+            List<Employees> theJoesFNameLambda = employees.Where(x => x.FName.Contains("Joe")).ToList();
 
             //Lambda function to find the Id of all employees over 5.
             List<Employees> theJoesId = employees.Where(x => x.Id > 5).ToList();
@@ -45,6 +45,5 @@ namespace Lambadaassign
             public string LName { get; set; }
             public int Id { get; set; }
         }
-    }
     }
 }

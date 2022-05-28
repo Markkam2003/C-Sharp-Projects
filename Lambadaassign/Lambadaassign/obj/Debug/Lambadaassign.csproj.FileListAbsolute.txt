@@ -1,0 +1,7 @@
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Lambadaassign\Lambadaassign\bin\Debug\Lambadaassign.exe.config
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Lambadaassign\Lambadaassign\bin\Debug\Lambadaassign.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Lambadaassign\Lambadaassign\bin\Debug\Lambadaassign.pdb
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Lambadaassign\Lambadaassign\obj\Debug\Lambadaassign.csproj.AssemblyReference.cache
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Lambadaassign\Lambadaassign\obj\Debug\Lambadaassign.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Lambadaassign\Lambadaassign\obj\Debug\Lambadaassign.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Lambadaassign\Lambadaassign\obj\Debug\Lambadaassign.pdb
