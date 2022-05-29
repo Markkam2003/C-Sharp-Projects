@@ -1,0 +1,6 @@
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\DateTimeassign\DateTimeassign\bin\Debug\DateTimeassign.exe.config
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\DateTimeassign\DateTimeassign\bin\Debug\DateTimeassign.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\DateTimeassign\DateTimeassign\bin\Debug\DateTimeassign.pdb
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\DateTimeassign\DateTimeassign\obj\Debug\DateTimeassign.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\DateTimeassign\DateTimeassign\obj\Debug\DateTimeassign.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\DateTimeassign\DateTimeassign\obj\Debug\DateTimeassign.pdb
