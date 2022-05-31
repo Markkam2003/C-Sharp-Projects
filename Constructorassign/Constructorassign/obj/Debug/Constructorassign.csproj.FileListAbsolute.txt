@@ -1,0 +1,7 @@
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Constructorassign\Constructorassign\obj\Debug\Constructorassign.csproj.AssemblyReference.cache
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Constructorassign\Constructorassign\obj\Debug\Constructorassign.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Constructorassign\Constructorassign\bin\Debug\Constructorassign.exe.config
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Constructorassign\Constructorassign\bin\Debug\Constructorassign.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Constructorassign\Constructorassign\bin\Debug\Constructorassign.pdb
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Constructorassign\Constructorassign\obj\Debug\Constructorassign.exe
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\Constructorassign\Constructorassign\obj\Debug\Constructorassign.pdb
