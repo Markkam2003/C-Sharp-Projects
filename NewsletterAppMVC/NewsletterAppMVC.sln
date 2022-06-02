@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsletterAppMVC", "NewsletterAppMVC\NewsletterAppMVC.csproj", "{4C662401-CEAE-4054-A4CE-99C73EF34D8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C662401-CEAE-4054-A4CE-99C73EF34D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C662401-CEAE-4054-A4CE-99C73EF34D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C662401-CEAE-4054-A4CE-99C73EF34D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C662401-CEAE-4054-A4CE-99C73EF34D8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8E14DCB-C67D-414A-B6C5-39E0C4658AF9}
+	EndGlobalSection
+EndGlobal
