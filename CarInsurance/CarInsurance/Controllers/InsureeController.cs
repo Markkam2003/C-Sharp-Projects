@@ -106,8 +106,6 @@ namespace CarInsurance.Controllers
                     quoteTotal *= 1.5m;
                 }
 
-                insuree.Quote = quoteTotal;
-
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -195,8 +193,6 @@ namespace CarInsurance.Controllers
                 {
                     quoteTotal *= 1.5m;
                 }
-
-                insuree.Quote = quoteTotal;
 
                 db.Entry(insuree).State = EntityState.Modified;
                 db.SaveChanges();
