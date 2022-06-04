@@ -1,6 +1,12 @@
 # Basic-C-projects
 These are the projects I created using C#
 
-#Projects:
+# Projects:
+# Car Insurance
+This project is an MVC web application that mimics a car insurance website.It takes the users input on policy information and calculates a quote based on business logic. There is also an admin page that allows staff to view all of the quotes that have been issued.
 
-CarInsurance
+# TwentyOne Game
+This project demonstrates the core concepts of C#, including inheritance and polymorphism, enums, exception handling, interfaces, operator overrides.
+
+
+
