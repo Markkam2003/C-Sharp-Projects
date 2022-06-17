@@ -7,8 +7,12 @@ using System.Data.Entity;
 
 namespace EF6CodeFirstDemo
 {
-    public class SchoolContext : DbContext
+    class SchoolContext : DbContext
     {
+        public SchoolContext(): base()
+        { 
+        
+        }
 
         public DbSet<Student> Students { get; set; }
         

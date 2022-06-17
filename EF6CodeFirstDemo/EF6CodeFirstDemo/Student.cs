@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EF6CodeFirstDemo
 {
-    class Student
+    public class Student
     {
         public int StudentID { get; set; }
         public string StudentName { get; set; }

@@ -2,9 +2,9 @@
 
 namespace EF6CodeFirstDemo
 {
-    internal class Program
+    class Program
     {
-        private static void Main(string[] args)
+        static void Main(string[] args)
         {
             using (var ctx = new SchoolContext())
             {
