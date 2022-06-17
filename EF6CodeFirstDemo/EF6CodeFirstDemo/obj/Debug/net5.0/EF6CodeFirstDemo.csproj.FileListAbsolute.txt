@@ -34,3 +34,4 @@ C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\EF6CodeFirstDemo\EF6CodeFirstDe
 C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\EF6CodeFirstDemo\EF6CodeFirstDemo\obj\Debug\net5.0\ref\EF6CodeFirstDemo.dll
 C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\EF6CodeFirstDemo\EF6CodeFirstDemo\obj\Debug\net5.0\EF6CodeFirstDemo.pdb
 C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\EF6CodeFirstDemo\EF6CodeFirstDemo\obj\Debug\net5.0\EF6CodeFirstDemo.genruntimeconfig.cache
+C:\Users\Mark\OneDrive\Desktop\Basic_C#_Programs\EF6CodeFirstDemo\EF6CodeFirstDemo\obj\Debug\net5.0\EF6CodeFirstDemo.csproj.AssemblyReference.cache

@@ -18,9 +18,5 @@ namespace EF6CodeFirstDemo
 
         public Grade Grade { get; set; }
 
-        public virtual Grade Grade { get; set; }
-
-        public virtual StudentAddress Address { get; set; }
-        public virtual ICollection<Course> Courses { get; set; }
     }
 }
